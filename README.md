@@ -6,7 +6,7 @@ Sou Brayan, sou atualmente na terceira fase do curso técnico de informática da
 <b>Email: brayandierings414@gmail.com<br>
 <br>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brayann07&layout=compact&theme=dracula)
-## Linguagens que já usei ou estou aprendendo:
+## Linguagens/Frameworks que já usei ou estou aprendendo:
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="C++" width="80" height="80" style="margin:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="80" height="80" style="margin:10px;">
@@ -15,4 +15,5 @@ Sou Brayan, sou atualmente na terceira fase do curso técnico de informática da
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="80" height="80" style="margin:10px;">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" width="80" height="80" style="margin:10px;">
   <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="80" height="80" style="margin:10px;">
+   <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" alt="tkinter" width="80" height="80" style="margin:10px;">
 </p>
