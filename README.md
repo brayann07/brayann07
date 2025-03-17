@@ -10,7 +10,7 @@ Sou Brayan, sou atualmente na terceira fase do curso técnico de informática da
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="C++" width="80" height="80" style="margin:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="80" height="80" style="margin:10px;">
-   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="80" height="80" style="margin:10px;">
+   <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png](https://cdn-icons-png.flaticon.com/512/226/226777.png)" alt="Java" width="80" height="80" style="margin:10px;">
    <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="CSharp" width="80" height="80" style="margin:10px;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="80" height="80" style="margin:10px;">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" width="80" height="80" style="margin:10px;">
