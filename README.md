@@ -3,7 +3,7 @@ Sou Brayan, sou atualmente na terceira fase do curso técnico de informática da
 <br>
 ## Meus Contatos:
 <b>Telefone: <b>(48)99133-8884<br>
-<b>Email: brayandierings414@gmail.com<br>
+<b>Email: brayanfdierings@gmail.com<br>
 <br>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brayann07&layout=compact&theme=dracula)
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
