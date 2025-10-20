@@ -7,7 +7,7 @@ Sou Brayan, atualmente na quarta fase do curso técnico de informática da SATC!
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayann07&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayann07&layout=pie&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayann07&layout=pie&theme=midnight-purple&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="C++" width="80" height="80" style="margin:10px;">
