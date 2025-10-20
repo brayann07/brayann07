@@ -5,7 +5,7 @@ Sou Brayan, atualmente na quarta fase do curso técnico de informática da SATC!
 <b>Telefone: <b>(48)99133-8884<br>
 <b>Email: brayanfdierings@gmail.com<br>
 <br>
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brayann07&layout=compact&theme=midnight-purple)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayann07&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayann07&layout=pie&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
