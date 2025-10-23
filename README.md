@@ -1,5 +1,5 @@
 # Sobre mim
-Sou Brayan, atualmente na quarta fase do curso técnico de informática da SATC!
+Sou Brayan, atualmente na conclusão do curso técnico de informática da SATC!
 <br>
 ## Meus Contatos:
 <b>Telefone: <b>(48)99133-8884<br>
