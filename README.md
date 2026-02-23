@@ -1,5 +1,5 @@
 # Sobre mim
-Sou Brayan, atualmente na conclusão do curso técnico de informática da SATC!
+Atualmente procurando estágio na área de Informática!
 <br>
 ## Meus Contatos:
 <b>Telefone: <b>(48)99133-8884<br>
