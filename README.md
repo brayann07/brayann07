@@ -5,7 +5,6 @@ Sou Brayan, atualmente na conclusão do curso técnico de informática da SATC!
 <b>Telefone: <b>(48)99133-8884<br>
 <b>Email: brayanfdierings@gmail.com<br>
 <br>
-
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="C++" width="80" height="80" style="margin:10px;">
