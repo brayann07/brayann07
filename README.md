@@ -1,5 +1,5 @@
 # Sobre mim
-Atualmente procurando estágio na área de Informática!
+Atualmente procurando estágio ou CLT na área de Informática!
 <br>
 ## Meus Contatos:
 <b>Telefone: <b>(48) 99133-8884<br>
