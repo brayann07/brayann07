@@ -2,7 +2,7 @@
 Atualmente procurando estágio na área de Informática!
 <br>
 ## Meus Contatos:
-<b>Telefone: <b>(48)99133-8884<br>
+<b>Telefone: <b>(48) 99133-8884<br>
 <b>Email: brayanfdierings@gmail.com<br>
 <br>
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
