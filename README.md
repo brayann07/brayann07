@@ -18,7 +18,7 @@ Atualmente procurando estágio na área de Informática!
 
 ## Game Engines que já usei para projetos:
 <p align="center">
-  <img src = "https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" width="80" height="80" style="margin:10px;">
+  <img src = "https://yt3.googleusercontent.com/nIKd_1FqVPI6zaMzPnLHMZsg-lDiutyi1ja1VNeOaSaMHvIjwLUJlEpXRdl0LY-BnZ1ttNm8Tg=s900-c-k-c0x00ffffff-no-rj" width="80" height="80" style="margin:10px;">
   <img src = "https://yt3.googleusercontent.com/eq8ykgnZDNAjbBghjfipLWmBwC_rPIQSNYcZyBpvmhrp1yh14uBn0bv3qbbPrek9V9v3UzDH=s900-c-k-c0x00ffffff-no-rj" width="80" height="80" style="margin:10px;">
   <img src = "https://i.ytimg.com/vi/wc8wzyA5tiI/hqdefault.jpg" width="80" height="80" style="margin:10px;">
   <img src = "https://dl.flathub.org/media/org/godotengine/GodotSharp/af2144b3c87340ae312187ff465d4740/icons/128x128@2/org.godotengine.GodotSharp.png" width="80" height="80" style="margin:10px;">
