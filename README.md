@@ -14,6 +14,7 @@ Atualmente procurando estágio na área de Informática!
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="80" height="80" style="margin:10px;">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" width="80" height="80" style="margin:10px;">
   <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="80" height="80" style="margin:10px;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="php" width="80" height="80" style="margin:10px;">
 </p>
 
 ## Game Engines que já usei para projetos:
