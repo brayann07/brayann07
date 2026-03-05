@@ -15,3 +15,11 @@ Atualmente procurando estágio na área de Informática!
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" width="80" height="80" style="margin:10px;">
   <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="80" height="80" style="margin:10px;">
 </p>
+
+## Game Engines que já usei para projetos:
+<p align="center">
+  <img src = "https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" width="80" height="80" style="margin:10px;">
+  <img src = "https://yt3.googleusercontent.com/eq8ykgnZDNAjbBghjfipLWmBwC_rPIQSNYcZyBpvmhrp1yh14uBn0bv3qbbPrek9V9v3UzDH=s900-c-k-c0x00ffffff-no-rj" width="80" height="80" style="margin:10px;">
+  <img src = "https://i.ytimg.com/vi/wc8wzyA5tiI/hqdefault.jpg" width="80" height="80" style="margin:10px;">
+  <img src = "https://dl.flathub.org/media/org/godotengine/GodotSharp/af2144b3c87340ae312187ff465d4740/icons/128x128@2/org.godotengine.GodotSharp.png" width="80" height="80" style="margin:10px;">
+</p>
