@@ -1,5 +1,5 @@
 # Sobre mim
-Atualmente, trabalho com banco de dados PostgreSQL , Excel e PowerBI como estágiario de engenharia de dados!.<br>
+Atualmente, trabalho com banco de dados PostgreSQL , Excel e PowerBI como estágiario de engenharia de dados!<br>
 Em tempo livre, foco majoritariamente no ROBLOX Studio por gostar da API e linguagem de programação, mas estou aprendendo Godot também pela linguagem de nódulos e open-source da engine
 <br>
 ## Meus Contatos:
