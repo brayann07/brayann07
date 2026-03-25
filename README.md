@@ -6,7 +6,7 @@ Atualmente, trabalho com banco de dados PostgreSQL , Excel e PowerBI
 <br>
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,arduino,cs,lua,react,nodejs,php,java,python)](https://skillicons.dev)
+  [![My Skills]https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 </p>
 
 ## Game Engines que já usei para projetos:
