@@ -1,5 +1,6 @@
 # Sobre mim
-Atualmente, trabalho com banco de dados PostgreSQL , Excel e PowerBI
+Atualmente, trabalho com banco de dados PostgreSQL , Excel e PowerBI.
+Em tempo livre, foco majoritariamente no ROBLOX Studio por gostar da API e linguagem de programação, mas, estou aprendendo godot também pela linguagem de nódulos e open-source da engine
 <br>
 ## Meus Contatos:
 <b>Email: brayanfdierings@gmail.com<br>
