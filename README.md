@@ -1,6 +1,6 @@
 # Sobre mim
 Atualmente, trabalho com banco de dados PostgreSQL , Excel e PowerBI como estágiario de engenharia de dados!<br>
-Em tempo livre, foco majoritariamente no ROBLOX Studio por gostar da API e linguagem de programação, mas estou aprendendo Godot também pela linguagem de nódulos e open-source da engine
+Em tempo livre, foco majoritariamente no GM Studio por gostar da flexibilidade mas estou aprendendo Godot também pela linguagem de nódulos e open-source da engine
 <br>
 ## Meus Contatos:
 <b>Email: brayanfdierings@gmail.com<br>
