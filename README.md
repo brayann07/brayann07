@@ -1,5 +1,5 @@
 # Sobre mim
-Atualmente, trabalho com banco de dados PostgreSQL , Excel e PowerBI como estágiario de engenharia de dados!<br>
+Atualmente, trabalho com banco de dados PostgreSQL , Automação em Python, Excel e PowerBI como estágiario de engenharia de dados!<br>
 Em tempo livre, foco majoritariamente no GM Studio por gostar da flexibilidade mas estou aprendendo Godot também pela linguagem de nódulos e open-source da engine
 <br>
 ## Meus Contatos:
