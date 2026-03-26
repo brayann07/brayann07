@@ -3,7 +3,7 @@ Atualmente, trabalho com banco de dados PostgreSQL , Excel e PowerBI como estág
 Em tempo livre, foco majoritariamente no GM Studio por gostar da flexibilidade mas estou aprendendo Godot também pela linguagem de nódulos e open-source da engine
 <br>
 ## Meus Contatos:
-<b>Email: brayanfdierings@gmail.com<br>
+<b>Email: brayanfdierings@gmail.com
 <br>
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
 <p align="center">
