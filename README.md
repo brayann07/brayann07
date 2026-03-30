@@ -1,6 +1,5 @@
 # Sobre mim
 Atualmente, trabalho com banco de dados PostgreSQL, Automação em Python, Excel e PowerBI como estágiario de engenharia de dados!<br> 
-<br>
 ## Meus Contatos:
 <b>Email: brayanfdierings@gmail.com
 <br>
