@@ -1,6 +1,6 @@
 # Sobre mim
 Atualmente, trabalho com banco de dados PostgreSQL, Automação em Python, Excel e PowerBI como estágiario de engenharia de dados!<br>
-Em tempo livre, foco majoritariamente no GM Studio e ROBLOX Studio para projetos pessoais!
+Faço projetos por hobby pelo GM Studio 2 e RBX Studio
 <br>
 ## Meus Contatos:
 <b>Email: brayanfdierings@gmail.com
