@@ -8,13 +8,13 @@ Em tempo livre, foco majoritariamente no GM Studio para projetos pessoais!
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
 <p align="center">
   <a href = "https://skillicons.dev">
-    <img src ="https://skillicons.dev/icons?i=js,arduino,cs,lua,react,nodejs,php,java,python,unity" />
+    <img src ="https://skillicons.dev/icons?i=js,arduino,cs,lua,react,nodejs,php,java,python" />
   </a>
 </p>
 
 ## Game Engines que já usei para projetos:
 <p align="center">
   <a href = "https://skillicons.dev">
-    <img src ="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio,godot" />
+    <img src ="https://skillicons.dev/icons?i=gamemakerstudio,robloxstudio,godot,unity" />
   </a>
 </p>
