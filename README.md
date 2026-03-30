@@ -8,7 +8,7 @@ Em tempo livre, foco majoritariamente no GM Studio para projetos pessoais!
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
 <p align="center">
   <a href = "https://skillicons.dev">
-    <img src ="https://skillicons.dev/icons?i=js,arduino,cs,lua,react,nodejs,php,java,python" />
+    <img src ="https://skillicons.dev/icons?i=js,arduino,cs,lua,react,nodejs,php,java,python,unity" />
   </a>
 </p>
 
