@@ -6,7 +6,7 @@ Atualmente, trabalho com banco de dados PostgreSQL, Automação em Python, Excel
 ## Linguagens/Frameworks que já usei ou estou aprendendo:
 <p align="center">
   <a href = "https://skillicons.dev">
-    <img src ="https://skillicons.dev/icons?i=js,arduino,cs,lua,react,nodejs,php,java,python,postgres" />
+    <img src ="https://skillicons.dev/icons?i=js,arduino,cs,lua,react,nodejs,php,java,python,postgres,mysql" />
   </a>
 </p>
 
