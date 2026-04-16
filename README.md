@@ -18,4 +18,8 @@ Atualmente, trabalho com banco de dados PostgreSQL, Automação em Python, Excel
 </p>
 
 #
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayann07&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  Minhas porcentagens de programação:<br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayann07&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
